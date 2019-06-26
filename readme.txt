@@ -12,4 +12,4 @@ Git tracks changes.
 
 learn branch.
 
-creating a new branch is quick & simple.
+creating a new branch is quick AND simple.
