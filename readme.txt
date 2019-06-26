@@ -13,3 +13,5 @@ Git tracks changes.
 learn branch.
 
 creating a new branch is quick AND simple.
+
+add merge
